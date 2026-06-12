@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ```
 
-##Usage
+#Usage
 
 # Compress a file (creates report_compressed.pdf)
 python compress.py report.pdf
