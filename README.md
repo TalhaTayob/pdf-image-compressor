@@ -31,6 +31,3 @@ pip install -r requirements.txt
 
 # Compress a file (creates report_compressed.pdf)
 python compress.py report.pdf
-
-# Specify an output path
-python compress.py huge.pdf small.pdf
